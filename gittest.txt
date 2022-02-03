@@ -8,3 +8,6 @@ printf("인생쓰다ㅏ");
 
 수정 -> add -> commit -> push
 
+다시 수정
+
+재미는 있다.
