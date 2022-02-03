@@ -1,0 +1,7 @@
+include <studio.h>
+
+printf("practice of github");
+
+printf("인생쓰다ㅏ");
+
+ㅠㅠㅠㅠㅠ
