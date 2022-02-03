@@ -5,3 +5,6 @@ printf("practice of github");
 printf("인생쓰다ㅏ");
 
 ㅠㅠㅠㅠㅠ
+
+수정 -> add -> commit -> push
+
